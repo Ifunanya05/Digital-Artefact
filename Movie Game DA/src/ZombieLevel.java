@@ -12,10 +12,7 @@ public class ZombieLevel extends JungleLevel {
 
     Scanner zombieInput = new Scanner(System.in);
 
-    static String phaseOneInput;
-    static String phaseTwoInput;
-    static String phaseThreeInput;
-
+   
     private static String movieActor; //private string movieActor
 
 
