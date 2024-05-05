@@ -12,10 +12,7 @@ public class AlienLevel extends JungleLevel {
     String [] optionPlan = {"Place a bomb under their spacecraft", "Offer them cake as a gesture of goodwill","Threaten them with war", "Sneeze on them"};
 
     Scanner alienInput = new Scanner(System.in);
-    static String phaseOneInput;
-    static String phaseTwoInput;
-    static String phaseThreeInput;
-
+   
 
 
     private static String movieDirector; //private string movieDirector
