@@ -11,10 +11,6 @@ public class PurgeLevel extends JungleLevel {
     String [] optionBurglar = {"Call 999", "Confront them", "Escape your house from the backdoor","Hide and wait until they leave"};
 
     Scanner purgeInput = new Scanner(System.in);
-    String phaseOneInput="";
-    String outcomeInputOne="";
-    String outcomeInputTwo="";
-
 
     Movie movie = new Movie();
 
