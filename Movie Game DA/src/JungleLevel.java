@@ -26,7 +26,7 @@ public class JungleLevel {
     static String[] actressArr = {"Margot Robbie", "Scarlett Johansson", "Jennifer Lawrence", "Melissa McCarthy", "Meryl Streep", "Viola Davis", "Emma Stone", "Cate Blanchett", "Natalie Portman"};
 
 
-    String[] optionFood = {"Berries from a bush", "Hunt and cooked birds", "Fish", "Insects and worms"};
+    String[] optionFood = {"Berries from a bush", "Hunt and cook birds", "Fish", "Insects and worms"};
     String[] optionSleep = {"Fort built with leaves,sticks and rope", "The floor", "Branches of a tree", "Dont fall asleep"};
     String[] optionHelp = {"Go to nearby water for signs of life", "Smoke signal", "Retrace your steps", "Yell for help"};
 
